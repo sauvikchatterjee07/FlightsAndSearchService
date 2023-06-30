@@ -41,7 +41,7 @@ The Flight Service Project utilizes the following technologies:
 
 To run the Flight Service Project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/flight-service-project.git`
+1. Clone the repository: `git clone https://github.com/sauvikchatterjee07/FlightsAndSearchService.git`
 2. Install the dependencies:
    - Navigate to the server directory: `cd flight-service-project/server` and run `npm install`.
    - Navigate to the client directory: `cd ../client` and run `npm install`.
